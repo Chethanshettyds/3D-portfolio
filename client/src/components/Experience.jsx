@@ -72,8 +72,12 @@ const Experience = () => {
                 
                 {/* Company Logo Area */}
                 <div className="absolute top-8 left-8 right-8 h-20 bg-gradient-to-r from-white/10 to-transparent rounded-2xl backdrop-blur-xl flex items-center justify-center border border-white/20 shadow-lg">
-                  <div className={`w-16 h-16 rounded-2xl ${index === 0 ? 'bg-gradient-to-r from-emerald-500 to-teal-500 shadow-emerald-500/50' : 'bg-gradient-to-r from-purple-500 to-pink-500 shadow-purple-500/50'} flex items-center justify-center text-2xl font-black shadow-2xl`}>
-                    {index === 0 ? '🇯🇵' : '💻'}
+                  <div className={`w-16 h-16 rounded-2xl ${
+                    index === 0 
+                      ? 'bg-gradient-to-r from-blue-500 to-cyan-500 shadow-blue-500/50' 
+                      : 'bg-gradient-to-r from-purple-500 to-pink-500 shadow-purple-500/50'
+                  } flex items-center justify-center text-3xl font-black shadow-2xl`}>
+                    {index === 0 ? '🏢' : '💻'}
                   </div>
                 </div>
 

@@ -32,6 +32,14 @@ export const projects = [
     image: "/assets/stock-market.png",
     liveLink: "https://stocks-app-test.netlify.app/",
     githubLink: "https://github.com/Chethanshettyds/stocks-website"
+  },
+  {
+    title: "3D Portfolio Website",
+    tech: ["HTML", "CSS", "JavaScript", "ReactJS", "NodeJS", "TailwindCSS", "Three.js", "GSAP"],
+    description: "Built interactive 3D portfolio including Three.js, dynamic project galleries, responsive design, and 3D models.",
+    image: "/assets/3D-portfolio.png",
+    liveLink: "https://myawebsite.netlify.app/",
+    githubLink: "https://github.com/Chethanshettyds/3D-portfolio"
   }
 ];
 

@@ -18,12 +18,12 @@ export const projects = [
     githubLink: "https://github.com/Chethanshettyds/Employee-Management-System"
   },
   {
-    title: "Tiny Link Editor",
-    tech: ["React", "NextJS", "JavaScript", "MongoDB", "TailwindCSS"],
-    description: "Full-stack URL shortener with custom codes, click analytics, search, responsive design, fast redirects, and PostgreSQL backend.",
-    image: "/assets/tinylink-project.png",
-    liveLink: "https://tinylink-project.netlify.app",
-    githubLink: "https://github.com/Chethanshettyds/Tinylink-Project"
+    title: "Trello Clone",
+    tech: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "NextJS", "NodeJS", "Express", "MongoDB"],
+    description: "Trello clone with React, TypeScript, Node.js, Express, MongoDB featuring drag-and-drop and real-time updates and a clean, modern UI.",
+    image: "/assets/trello-clone.png",
+    liveLink: "https://your-live-demo-url.com",
+    githubLink: "https://github.com/Chethanshettyds/trello-clone"
   },
   {
     title: "Stock Market Website",
@@ -32,6 +32,14 @@ export const projects = [
     image: "/assets/stock-market.png",
     liveLink: "https://stocks-app-test.netlify.app/",
     githubLink: "https://github.com/Chethanshettyds/stocks-website"
+  },
+  {
+    title: "Tiny Link Editor",
+    tech: ["React", "NextJS", "JavaScript", "MongoDB", "TailwindCSS"],
+    description: "Full-stack URL shortener with custom codes, click analytics, search, responsive design, fast redirects, and PostgreSQL backend.",
+    image: "/assets/tinylink-project.png",
+    liveLink: "https://tinylink-project.netlify.app",
+    githubLink: "https://github.com/Chethanshettyds/Tinylink-Project"
   },
   {
     title: "3D Portfolio Website",

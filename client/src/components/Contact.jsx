@@ -247,7 +247,7 @@ const Contact = () => {
         >
           <div className="space-y-3">
             <h2 className="text-2xl md:text-3xl font-black text-white">
-              Establish Connection
+              Get In Touch
             </h2>
             <p className="text-white/70">
               Transmit your message through the primary encrypted channel. A response is typically dispatched within 24 hours.
